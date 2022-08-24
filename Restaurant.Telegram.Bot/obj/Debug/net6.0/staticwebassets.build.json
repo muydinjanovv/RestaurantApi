@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2Tcfh0s0Ygx2w3cIq2noKWhIPb2v6MM5fYDOs6AHhVQ=",
+  "Source": "Restaurant.Telegram.Bot",
+  "BasePath": "_content/Restaurant.Telegram.Bot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
